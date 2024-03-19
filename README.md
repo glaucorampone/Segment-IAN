@@ -2,7 +2,7 @@
 This repository contains a TensorFlow implementation of a U-Net model for segmenting inferior alveolar nerve and third molars in dental panoramic X-ray images.
 
 ## Overview
-Dental panoramic X-ray images are crucial for diagnosing various dental conditions. Automated segmentation of anatomical structures in these images can aid in accurate diagnosis and treatment planning. This project focuses on segmenting the inferior alveolar nerve and third molars using a U-Net model, a popular architecture for semantic segmentation tasks.
+Dental panoramic X-ray images are crucial for diagnosing various dental conditions. Automated segmentation of anatomical structures in these images can aid in accurate diagnosis and treatment planning. This project focuses on segmenting the inferior alveolar nerve and third molars using a U-Net model.
 
 ## Model Architecture
 The implemented U-Net model consists of a contracting path (encoding) and an expanding path (decoding) to capture features at different levels of abstraction. The model is built using TensorFlow's Keras API. Here's a brief overview of the architecture:
