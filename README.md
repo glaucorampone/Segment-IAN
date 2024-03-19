@@ -21,6 +21,6 @@ Dataset Preparation: Ensure your dataset containing dental panoramic X-ray image
 **Evaluation**: Evaluate the trained model using appropriate metrics to assess its performance on segmentation tasks.
 
 ## Dependencies
-TensorFlow 2.x 
-NumPy 
-Matplotlib
+- TensorFlow 2.x 
+- NumPy 
+- Matplotlib
